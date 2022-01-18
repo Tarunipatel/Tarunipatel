@@ -13,5 +13,5 @@ I'm Taruni Patel
 
 <p align="center">
     
-  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Tarunipatel&theme=synthwave&bg_color=000000&color=b4deb4&hide_border=true" width="100%"/>
+  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Tarunipatel&theme=synthwave&bg_color=242624&color=b4deb4&line=739e73&point=33a333&hide_border=true" width="100%"/>
 </p>
